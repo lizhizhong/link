@@ -120,7 +120,7 @@
 </template>
 
 <script>
-	import navc from '../../components/self-navc/navc.vue';
+	import navc from '../../components/self-navc/self-navc.vue';
 	export default {
 		components: {
 			navc
