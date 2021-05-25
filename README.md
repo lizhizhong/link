@@ -3,7 +3,7 @@ uniapp
 
 本插件适用方便提示请求的信息，使用起来方便，可以后期二期开发
 
-这是一个项目下载地址链接 [github](https://github.com/lizhizhong/popView)
+这是一个项目下载地址链接 [github](https://github.com/lizhizhong/link.git)
 
 # 兼容说明
 适合所有前端组件
